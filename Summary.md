@@ -25,3 +25,6 @@ String List, Array 에서 foreach 사용하지 않고 concat 이 가능
 ```
 String.join( "사이에 추가할 문자" , List or Array );
 ```
+
+### 2.2 CharArray to String 
+new String(arr) 로 바로 생성 가능
